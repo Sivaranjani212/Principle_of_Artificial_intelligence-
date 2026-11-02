@@ -1,1 +1,1 @@
-# Principle_of_Artificial_intelligence-
+# Principle_of_Artificial_intelligence
